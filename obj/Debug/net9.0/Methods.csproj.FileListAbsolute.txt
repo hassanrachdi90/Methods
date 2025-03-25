@@ -1,0 +1,14 @@
+C:\Users\hassa\Desktop\Methods\bin\Debug\net9.0\Methods.exe
+C:\Users\hassa\Desktop\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\Users\hassa\Desktop\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+C:\Users\hassa\Desktop\Methods\bin\Debug\net9.0\Methods.dll
+C:\Users\hassa\Desktop\Methods\bin\Debug\net9.0\Methods.pdb
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.dll
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.pdb
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+C:\Users\hassa\Desktop\Methods\obj\Debug\net9.0\ref\Methods.dll
