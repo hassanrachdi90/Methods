@@ -219,3 +219,20 @@ int Fibonacci(int n)
     return (n <= 1) ? n : Fibonacci(n - 1) + Fibonacci(n - 2);
 }
 Console.WriteLine(Fibonacci(6));
+
+
+Console.WriteLine("=================Exercice =========================");
+try{
+    checked{
+    short d1=short.MinValue;
+    short d2=short.MaxValue;
+    Console.WriteLine($"{d1}:{d2}");
+    d2++;
+    Console.WriteLine($"{d1}:{d2}");
+   }
+}
+    
+catch (Exception ex) // Capture des autres exceptions
+{
+Console.WriteLine("Autre erreur : " + ex.Message);        
+}
